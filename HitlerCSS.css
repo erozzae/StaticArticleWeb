@@ -1,0 +1,69 @@
+
+nav{
+    padding-left: 2%;
+    font-size: 19px;
+}
+
+.container-fluid{
+    font-family: vogue;
+    font-size: 23px;
+    color: white;
+}
+
+.container2{
+    margin-top: 8%;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.header{
+    padding-left: 20px;
+}
+
+.picture{
+    height: 280px;
+    
+    background-image: url("londo.jpg")
+}
+
+.judul{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}
+.ketFoto{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    padding-top: 2px;
+    color: gray;
+    
+}
+
+.content p{
+    padding-left: 10px;
+}
+
+.pictContent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 200px;
+    border-bottom: 3px solid #1d2327;
+    border-top: 3px solid #1d2327;
+    border-radius: 4px;
+}
+
+.teksIsi{
+    letter-spacing: 1px;
+}
+
+.footer{
+    padding: 8px;
+    background-color: #1d2327;
+}
+
+.footer .isiFooter{
+    font-family: vogue;
+    text-align: center;
+    color: #eaeaea;
+}

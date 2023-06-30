@@ -1,0 +1,91 @@
+
+nav{
+    padding-left: 0%;
+    font-size: 19px;
+}
+
+.container-fluid{
+    font-family: vogue;
+    font-size: 23px;
+    color: white;
+}
+
+.pictHead{
+    height: 380px;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(enstein2.jpg);
+    border-bottom: 3px solid salmon;
+    
+   
+}
+
+.content{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.content .info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+
+
+
+.pict{
+    margin-right: 20px;
+    height: 200px;
+    width: 400px;
+    border-radius: 5px;
+    float: left;
+}
+
+
+.teks{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    
+}
+
+.teks a{
+    color: brown;
+    text-decoration: none;
+    
+
+}
+
+.teks a:hover{
+   
+    color:black;
+}
+
+.pictContent1{
+    height: 200px;
+    background-image: url("jimmyWales.png");
+    
+}
+
+.pictContent2{
+    background-image: url("chengHo1.jpg");
+}
+
+.button{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    margin-left: 75%;
+    font-size: 15px;
+    background: brown;
+    color: white;
+    border: white 3px solid;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.button:hover{
+    color: black;
+}

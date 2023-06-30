@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(sejarah.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: vogue;
+    font-size: 19px;
+}
+
+.banner nav{
+    padding-left: 2%;
+}
+
+
+
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #1d2327;
+    height: auto;
+    width: 100vw;
+    font-family:sans-serif;
+    color: #eaeaea;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+.footer-content{
+    text-align: center;
+    list-style: none;
+    
+}
+
+.footer-first{
+    padding-top: 1%;
+    font-size: 10px;
+}
+
+
+.footer-content-2{ 
+    font-size: 9px;
+    list-style: none;
+    
+    font-family: sans-serif;
+}
+.footer-content-2 li{
+    list-style: none;
+    letter-spacing: 0.5px;
+    
+}
+
+.footer-content h3{
+    font-size: 30PX;
+    font-weight: 400;
+    font-family: vogue;
+    
+}
+.footer-content p{
+    max-width: 500px;
+    font-size: 9px;
+    
+}
+
+
+.footer-ul li{
+    margin: 0 10px;
+    list-style: none;
+    
+}
+
+.footer-ul li a{
+    text-decoration: none;
+    color: #e2b091;
+}
+
+.footer-ul li a:hover{
+    color: #e2b091;
+    color: brown;
+}
+
+
+.content{
+    
+    text-align: center;
+    padding: 5% 5% 5% 5%;
+    color: white;
+   
+}
+.content h1{
+    font-weight: 300;
+    font-family: vogue;
+    letter-spacing: 2px;
+}
+
+.content a{
+    background-color: #755100;
+    color: white;
+    padding: 4px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+    
+    
+    
+}
+
+.content a:hover{
+    background-color: #1d2327;
+    color: burlywood;
+}
+
+.card{
+    
+    
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 16px 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+   
+    background-position: center;
+    background-size: cover;
+    transition: transform 1s;
+
+}
+
+.card1{
+    background-image: url(siliwangi.jpg);
+}
+
+.card2{
+    background-image: url(walpaper-sejarah-5.jpg);
+}
+
+
+.card:hover{
+    transform:translateY(-15px);
+}
+
